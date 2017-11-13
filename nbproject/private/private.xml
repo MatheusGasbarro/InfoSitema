@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/lib/config.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/funcionario/admin_index.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/webroot/index.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/funcionario/admin_novo.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/lib/lang.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/produto/admin_novo.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/models/contato.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/models/funcionario.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/config/config.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/produto/ver.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/controllers/funcionariocontroller.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/lib/session.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/admin.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/models/produto.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/produto/admin_editar.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/lib/router.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/pedido/index.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/pedido/admin_index.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/controllers/pedidocontroller.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/produto/index.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/contato/index.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/models/pedido.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/lib/init.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/contato/admin_index.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/webroot/static/js/admin.js</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/lib/app.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/funcionario/admin_editar.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/lib/controller.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/funcionario/admin_login.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/views/produto/admin_index.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/lib/model.php</file>
+            <file>file:/C:/Program%20Files/VertrigoServ/www/sistema/controllers/produtocontroller.php</file>
+        </group>
+    </open-files>
+</project-private>
